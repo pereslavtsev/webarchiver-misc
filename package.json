@@ -1,5 +1,5 @@
 {
-  "name": "@webarchiver/misc",
+  "name": "@pereslavtsev/webarchiver-misc",
   "version": "1.0.0",
   "description": "A collection of miscellaneous utilities for WebArchiver bot services",
   "main": "dist/index.js",
